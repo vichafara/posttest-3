@@ -1,0 +1,7 @@
+SLIP PEMBAYARAN 
+Yang dibeli : 
+  Ayam Goreng   -> 3
+  Ayam Bakar    -> 7
+Harga total Rp. 198000
+Diskon      Rp. 19800
+Harga Bayar Rp. 178200
